@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['s',['s',['../classvue_1_1_inscription.html#a1bfa990385c20826bdd14ccaa01aaec2',1,'vue::Inscription']]],
+  ['scorea',['ScoreA',['../classm_xC3_xA9tier_1_1_match.html#acc669b6502eab42173a115e63f43735e',1,'métier::Match']]],
+  ['scoreb',['ScoreB',['../classm_xC3_xA9tier_1_1_match.html#ac3fdbfe339ce623fb962109f1cb47cbe',1,'métier::Match']]],
+  ['scoreequipea',['scoreEquipeA',['../structm_xC3_xA9tier_1_1resultat.html#aafcddcf3610fe4564edc8bb165d2c60b',1,'métier::resultat']]],
+  ['scoreequipeb',['scoreEquipeB',['../structm_xC3_xA9tier_1_1resultat.html#a63005cb99158c5c4ed21034d12bc5491',1,'métier::resultat']]],
+  ['seconnecter',['seconnecter',['../classm_xC3_xA9tier_1_1_manager.html#a0d06cb300532caf091e0b40940dde664',1,'métier::Manager']]],
+  ['selection',['Selection',['../classm_xC3_xA9tier_1_1_joueur.html#aec28c28d3dcf33265c94a75bd48ca6de',1,'métier::Joueur']]],
+  ['senior',['Senior',['../namespacem_xC3_xA9tier.html#a38c1ad0071202b1dd1b73c01f58996cbae8cdb964fb869d42981e6ac512177523',1,'métier']]],
+  ['settings_2edesigner_2ecs',['Settings.Designer.cs',['../_settings_8_designer_8cs.html',1,'']]],
+  ['sexe',['Sexe',['../classm_xC3_xA9tier_1_1_utilisateur_connecte.html#afd4a90f272b5f95ca9044abdaee4f1ba',1,'métier.UtilisateurConnecte.Sexe()'],['../classm_xC3_xA9tier_1_1_utilisateur_inscrit.html#a9493ad4e141ef3e03aac7bb558569fd6',1,'métier.UtilisateurInscrit.Sexe()'],['../classvue_1_1_inscription.html#a5af35d63451b6c36e8f92e64868ea64c',1,'vue.Inscription.sexe()'],['../namespacem_xC3_xA9tier.html#a590941e5d9050b2ab5dc16e498aa4f08',1,'métier.Sexe()']]],
+  ['sexe_2ecs',['Sexe.cs',['../_sexe_8cs.html',1,'']]],
+  ['stubdatamanager',['StubDataManager',['../class_persistance_1_1_stub_data_manager.html',1,'Persistance']]],
+  ['stubdatamanager',['StubDataManager',['../classm_xC3_xA9tier_1_1_stub_data_manager.html',1,'métier']]],
+  ['stubdatamanager_2ecs',['StubDataManager.cs',['../m_xC3_xA9tier_2_stub_data_manager_8cs.html',1,'']]],
+  ['stubdatamanager_2ecs',['StubDataManager.cs',['../_persistance_2_stub_data_manager_8cs.html',1,'']]],
+  ['supprimercompetition',['SupprimerCompetition',['../classm_xC3_xA9tier_1_1_manager.html#ae3b1e0a36032bf70cec44fc77b2c6565',1,'métier::Manager']]],
+  ['supprimerequipe',['SupprimerEquipe',['../classm_xC3_xA9tier_1_1_competition.html#a3e0191e86d0f7cd6c72c15cd89687be9',1,'métier.Competition.SupprimerEquipe()'],['../classm_xC3_xA9tier_1_1_competition_a_poule.html#ad8d38733004f9eb9654149f5f4e4002e',1,'métier.CompetitionAPoule.SupprimerEquipe()'],['../classm_xC3_xA9tier_1_1_competition_poule_unique.html#aee720c39d0a80f62fd11b2dc21a1321f',1,'métier.CompetitionPouleUnique.SupprimerEquipe()']]],
+  ['supprimerequipecompetapouleunique',['SupprimerEquipeCompetAPouleUnique',['../classm_xC3_xA9tier_1_1_manager.html#ad50fa81b7c289677e1cba06adaeb1444',1,'métier::Manager']]],
+  ['supprimerequipecompetitionapoule',['SupprimerEquipeCompetitionAPoule',['../classm_xC3_xA9tier_1_1_manager.html#ab89ae1ab2e16b2efe02d46f919c9525d',1,'métier::Manager']]],
+  ['supprimerjoueur',['SupprimerJoueur',['../classm_xC3_xA9tier_1_1_manager.html#a44fa89f6a09bbccd206f58364c03ed8e',1,'métier.Manager.SupprimerJoueur()'],['../classm_xC3_xA9tier_1_1_equipe.html#acc4b46bc85e69181c9cc031c29bdcba7',1,'métier.Equipe.supprimerJoueur()']]]
+];
